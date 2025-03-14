@@ -1,6 +1,8 @@
-streamlit==1.12.0
-langchain==0.0.8
-openai==0.27.0
-python-dotenv==0.21.0
+streamlit==1.32.0
+langchain==0.1.12
+openai==1.14.2
+python-dotenv==1.0.1
+os
+re
 datetime
 base64
