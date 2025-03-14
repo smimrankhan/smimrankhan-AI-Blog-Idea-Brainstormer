@@ -1,7 +1,7 @@
 streamlit
-langchain==0.1.12
-openai==1.14.2
-python-dotenv==1.0.1
+langchain
+openai
+python-dotenv
 os
 re
 datetime
