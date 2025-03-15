@@ -6,3 +6,4 @@ os
 re
 datetime
 base64
+pip == 25.0.1
